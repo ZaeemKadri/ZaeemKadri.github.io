@@ -76189,7 +76189,7 @@ $S:0}
 A.adj.prototype={
 $0(){var s=window
 s.toString
-B.xE.QZ(s,"assets/cv.pdf","_self")},
+B.xE.QZ(s,"assets/assets/cv.pdf","_self")},
 $S:0}
 A.adk.prototype={
 $0(){var s=this.a
