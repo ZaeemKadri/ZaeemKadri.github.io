@@ -76034,7 +76034,7 @@ $S:0}
 A.adc.prototype={
 $0(){var s=window
 s.toString
-B.xE.QZ(s,"assets/cv.pdf","_blank")},
+B.xE.QZ(s,"assets/assets/cv.pdf","_blank")},
 $S:0}
 A.add.prototype={
 $0(){var s=this.a
